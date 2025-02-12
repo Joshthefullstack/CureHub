@@ -1,0 +1,7 @@
+C:\Users\xPlug\source\repos\HMSApplication\bin\Release\net8.0-windows\publish\HMSApplication.exe
+C:\Users\xPlug\source\repos\HMSApplication\bin\Release\net8.0-windows\publish\HMSApplication.dll
+C:\Users\xPlug\source\repos\HMSApplication\bin\Release\net8.0-windows\publish\HMSApplication.deps.json
+C:\Users\xPlug\source\repos\HMSApplication\bin\Release\net8.0-windows\publish\HMSApplication.runtimeconfig.json
+C:\Users\xPlug\source\repos\HMSApplication\bin\Release\net8.0-windows\publish\HMSApplication.pdb
+C:\Users\xPlug\source\repos\HMSApplication\bin\Release\net8.0-windows\publish\HMSData.dll
+C:\Users\xPlug\source\repos\HMSApplication\bin\Release\net8.0-windows\publish\HMSData.pdb

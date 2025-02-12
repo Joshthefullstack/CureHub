@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_LastSelectedProfileId>C:\Users\xPlug\source\repos\HMSApplication\Properties\PublishProfiles\FolderProfile.pubxml</_LastSelectedProfileId>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Update="AdminRole\AdminDashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdminRole\PatientRegBills.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdminRole\PatientRegFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Auth\Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Doctor\DoctorDashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Doctor\Prescription.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Doctor\PtnComplaint.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Nurse\AssignPtntoDoc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Nurse\NurseDashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Nurse\RegisterPatientVitals.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Pharmacist\BillsAndPayment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Pharmacist\DispenseForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Pharmacist\PharmascistDashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Pharmacist\ReceiptFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Pharmacist\RegisterDrugs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
